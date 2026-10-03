@@ -1,0 +1,15 @@
+{
+  "doc_id": "MED-REP-301",
+  "title": "Clinical Trial Protocol Summary - Phase II CardioX Study",
+  "doc_type": "clinical_report",
+  "content": "Investigational Drug Study Summary for CardioX (Protocol CX-202): Multicenter Phase II trial evaluating novel ACE2 activator in patients with chronic heart failure. Sample size: 450 randomized participants across 12 medical centers. Primary efficacy endpoint achieved: 78.4% demonstrated statistically significant improvement in left ventricular ejection fraction. Adverse reaction rate was low at 4.2%. Development cost to date: $2,400,000.00.",
+  "metadata": {
+    "protocol_id": "CX-202",
+    "sample_size": 450,
+    "efficacy_rate_pct": 78.4,
+    "adverse_event_pct": 4.2,
+    "development_cost": 2400000.0,
+    "amount": 2400000.0,
+    "department": "Cardiology Research"
+  }
+}

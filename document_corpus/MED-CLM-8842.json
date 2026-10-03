@@ -1,0 +1,15 @@
+{
+  "doc_id": "MED-CLM-8842",
+  "title": "Oncology Infusion and Biologic Therapy Claim",
+  "doc_type": "healthcare_claim",
+  "content": "Comprehensive Cancer Institute Billing Summary - Patient ID #PT-9023. Treatment course: 6 cycles of monoclonal antibody targeted immunotherapy and supportive care infusion. Gross billed amount: $118,500.00. Payer approved reimbursement: $102,000.00. Maximum out-of-pocket patient copay: $16,500.00. Claim status: Fully processed and finalized.",
+  "metadata": {
+    "patient_id": "PT-9023",
+    "billed_amount": 118500.0,
+    "insurance_paid": 102000.0,
+    "patient_copay": 16500.0,
+    "amount": 118500.0,
+    "procedure": "Immunotherapy Infusion",
+    "department": "Oncology"
+  }
+}

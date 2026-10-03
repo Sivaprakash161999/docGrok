@@ -1,0 +1,14 @@
+{
+  "doc_id": "FIN-BUD-003",
+  "title": "Corporate IT Modernization Budget Allocation",
+  "doc_type": "budget_statement",
+  "content": "FY2024 Information Technology Strategic Budget Plan: Approved total budget authorization is $350,000.00. Line-item appropriations include: Enterprise Cyber Defense ($120,000.00), Cloud Application Migration ($150,000.00), and Engineering Staff Advanced Upskilling & AI Training ($80,000.00). Unallocated reserve: $0.",
+  "metadata": {
+    "budget_code": "IT-MOD-2024",
+    "total_budget": 350000.0,
+    "amount": 350000.0,
+    "fiscal_year": "2024",
+    "department": "Information Technology",
+    "currency": "USD"
+  }
+}

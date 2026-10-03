@@ -1,0 +1,14 @@
+{
+  "doc_id": "MED-EQP-502",
+  "title": "Diagnostic Imaging Equipment Service Contract",
+  "doc_type": "healthcare_contract",
+  "content": "Comprehensive Medical Equipment Maintenance Agreement with Siemens Healthineers: 3-year service contract for two 3.0T MRI imaging systems and 64-slice CT scanners located at Central Medical Pavilion. Total 3-year contract value: $275,000.00. Annualized service fee: $91,666.67. Quarterly scheduled preventative maintenance included.",
+  "metadata": {
+    "vendor": "Siemens Healthineers",
+    "contract_value": 275000.0,
+    "annual_fee": 91666.67,
+    "amount": 275000.0,
+    "equipment": "3.0T MRI & CT Scanners",
+    "department": "Radiology"
+  }
+}

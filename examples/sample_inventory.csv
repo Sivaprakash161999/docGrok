@@ -1,0 +1,6 @@
+Item_ID,Description,Department,Unit_Cost,Quantity,Total_Value
+SKU-1001,Enterprise Server Blades,IT Infrastructure,2500.0,12,30000.0
+SKU-1002,Gigabit Network Switches,Networking,850.0,20,17000.0
+SKU-1003,SSD Storage Arrays 4TB,Storage Ops,1200.0,15,18000.0
+SKU-1004,Cooling System Fans,Facilities,150.0,40,6000.0
+SKU-1005,Cat6A Shielded Cables,Networking,45.0,100,4500.0

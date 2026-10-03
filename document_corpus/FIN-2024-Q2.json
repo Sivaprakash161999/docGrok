@@ -1,0 +1,16 @@
+{
+  "doc_id": "FIN-2024-Q2",
+  "title": "Q2 2024 Financial Performance Report",
+  "doc_type": "financial_report",
+  "content": "Executive Financial Summary for Q2 2024: Consolidated revenue accelerated to $4,800,000, driven by rapid adoption of intelligent workflow solutions. Operating expenses totaled $3,552,000, with R&D allocation increasing to $920,000. Operating margin improved to 26.0%, delivering net profit of $1,248,000. Capital expenditure (CapEx) for server infrastructure was $310,000.",
+  "metadata": {
+    "period": "Q2 2024",
+    "revenue": 4800000.0,
+    "rnd_expenses": 920000.0,
+    "net_profit": 1248000.0,
+    "operating_margin_pct": 26.0,
+    "amount": 4800000.0,
+    "department": "Finance",
+    "currency": "USD"
+  }
+}

@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Environment Variables & Secrets
+.env
+*.env
+
+# IDE & OS
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Sessions & Logs
+sessions/*.json
+!sessions/.gitkeep
+logs/*.log
+!logs/.gitkeep
+*.log
+
+# Testing
+.pytest_cache/

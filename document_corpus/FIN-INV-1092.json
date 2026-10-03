@@ -1,0 +1,15 @@
+{
+  "doc_id": "FIN-INV-1092",
+  "title": "Vendor Invoice - Cloud AI Compute Infrastructure",
+  "doc_type": "financial_invoice",
+  "content": "Invoice #1092 from Horizon Cloud Systems Inc. Description: Dedicated GPU cluster reservation (8x H100 nodes), high-throughput vector store hosting, and API bandwidth for May 2024. Subtotal: $45,000.00. Applicable tax (8%): $3,600.00. Early payment discount: -$100.00. Total amount due: $48,500.00. Payment terms: Net 30.",
+  "metadata": {
+    "vendor": "Horizon Cloud Systems Inc",
+    "invoice_number": "1092",
+    "amount": 48500.0,
+    "total_due": 48500.0,
+    "date": "2024-05-15",
+    "department": "Infrastructure",
+    "currency": "USD"
+  }
+}

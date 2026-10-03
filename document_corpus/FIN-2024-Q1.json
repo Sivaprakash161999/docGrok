@@ -1,0 +1,16 @@
+{
+  "doc_id": "FIN-2024-Q1",
+  "title": "Q1 2024 Financial Performance Report",
+  "doc_type": "financial_report",
+  "content": "Executive Financial Summary for Q1 2024: Total consolidated revenue reached $4,250,000, representing a 14% year-over-year increase. Research and Development (R&D) investments totaled $850,000, focused primarily on enterprise AI agent architecture. Operating margin settled at 24.0%, yielding a net profit of $1,020,000. Operating cash flow stood at $1,150,000 with total enterprise assets valued at $18,400,000.",
+  "metadata": {
+    "period": "Q1 2024",
+    "revenue": 4250000.0,
+    "rnd_expenses": 850000.0,
+    "net_profit": 1020000.0,
+    "operating_margin_pct": 24.0,
+    "amount": 4250000.0,
+    "department": "Finance",
+    "currency": "USD"
+  }
+}

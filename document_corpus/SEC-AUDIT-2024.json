@@ -1,0 +1,11 @@
+{
+  "doc_id": "SEC-AUDIT-2024",
+  "title": "Annual Enterprise Cybersecurity Audit",
+  "doc_type": "security_audit",
+  "content": "Annual Cybersecurity Audit Report 2024: Zero critical zero-day vulnerabilities detected. Total penetration testing expenditure was $42,000.00. ISO 27001 certification renewed successfully.",
+  "metadata": {
+    "amount": 42000.0,
+    "department": "Security",
+    "auditor": "CyberGuard LLP"
+  }
+}

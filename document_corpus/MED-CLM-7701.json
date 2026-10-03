@@ -1,0 +1,15 @@
+{
+  "doc_id": "MED-CLM-7701",
+  "title": "Inpatient Hospital Billing Claim - Orthopedic Reconstruction",
+  "doc_type": "healthcare_claim",
+  "content": "Hospital Discharge Billing Statement - Patient ID #PT-4481. Procedure: Total Left Knee Arthroplasty and post-op physical therapy monitoring. Total billed provider charges: $64,200.00. Primary insurer (BlueCross BlueShield) contractual allowance approved: $52,000.00. Co-insurance and deductible due from patient: $12,200.00. Status: Adjudicated.",
+  "metadata": {
+    "patient_id": "PT-4481",
+    "billed_amount": 64200.0,
+    "insurance_paid": 52000.0,
+    "patient_responsibility": 12200.0,
+    "amount": 64200.0,
+    "procedure": "Total Knee Arthroplasty",
+    "department": "Orthopedics"
+  }
+}

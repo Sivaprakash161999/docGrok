@@ -1,0 +1,12 @@
+{
+  "doc_id": "TEST-INV-9901",
+  "title": "Alpha Cloud AI Services - Monthly Invoice",
+  "doc_type": "financial_invoice",
+  "content": "Invoice Number: TEST-INV-9901\nVendor: Alpha Cloud Solutions Inc.\nDate: 2024-09-15\nDescription: GPU cluster compute reserved instances for LLM model training and API serving.\nLine Items:\n  - H100 GPU Cluster (16 nodes, 720 hours): $12,500.00\n  - High-speed NVMe Storage (50TB): $1,250.00\n  - Network Egress & VPC Peering: $2,000.00\nTotal Invoice Amount: $15,750.00\nPayment Terms: Net 30\nStatus: Pending Approval",
+  "metadata": {
+    "amount": 15750.0,
+    "vendor": "Alpha Cloud Solutions Inc.",
+    "department": "Engineering AI",
+    "period": "2024-09"
+  }
+}
