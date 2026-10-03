@@ -1,5 +1,9 @@
 # DocGrok: Intelligent Agentic Document Assistant
 
+<p align="center">
+  <img src="assets/docgrok_banner.png" alt="DocGrok Hero Banner" width="100%" />
+</p>
+
 [![Python 3.12+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/)
 [![LangGraph](https://img.shields.io/badge/orchestration-LangGraph-orange.svg)](https://github.com/langchain-ai/langgraph)
 [![LangChain](https://img.shields.io/badge/framework-LangChain-green.svg)](https://github.com/langchain-ai/langchain)
